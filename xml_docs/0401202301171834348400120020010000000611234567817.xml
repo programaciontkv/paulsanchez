@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+                    <autorizacion>
+		              <estado>AUTORIZADO</estado>
+		              <numeroAutorizacion>0401202301171834348400120020010000000611234567817</numeroAutorizacion>
+		              <fechaAutorizacion>2023-01-04T12:24:15-05:00</fechaAutorizacion>
+		              <ambiente>PRODUCCIÓN</ambiente>
+		              <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial> SANCHEZ MONTENEGRO JOHN PAUL </razonSocial>
+<nombreComercial>SANCHEZ MONTENEGRO JOHN PAUL </nombreComercial>
+<ruc>1718343484001</ruc>
+<claveAcceso>0401202301171834348400120020010000000611234567817</claveAcceso>
+<codDoc>01</codDoc>
+<estab>002</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000000061</secuencial>
+<dirMatriz>MARIANO HURTADO  N52-155 Y AMALIA EGUIGUREN</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>04/01/2023</fechaEmision>
+<dirEstablecimiento>MARIANO HURTADO  N52-155 Y AMALIA EGUIGUREN</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>BASANTES SANCHEZ GLADYS ALINA</razonSocialComprador>
+<identificacionComprador>1713750402001</identificacionComprador>
+<totalSinImpuestos>110.55</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>110.55</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>110.55</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>110.55</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>alf.que.001</codigoPrincipal>
+<codigoAuxiliar>7868000869101</codigoAuxiliar>
+<descripcion>QUESO MOZZARELLA 120GR REBANADO</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>0.95</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>2.85</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>2.85</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>alf.que.005</codigoPrincipal>
+<codigoAuxiliar>7868000869132</codigoAuxiliar>
+<descripcion>QUESO MOZZARELLA 500GR</descripcion>
+<cantidad>4</cantidad>
+<precioUnitario>3.05</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>12.2</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>12.2</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>alf.que.009</codigoPrincipal>
+<codigoAuxiliar>7868000869156</codigoAuxiliar>
+<descripcion>QUESO MIX 460GR REBANADO</descripcion>
+<cantidad>5</cantidad>
+<precioUnitario>3.1</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>15.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>15.5</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>alf.que.003</codigoPrincipal>
+<codigoAuxiliar>7868000869149</codigoAuxiliar>
+<descripcion>QUESO MOZZARELLA 295GR REBANADO</descripcion>
+<cantidad>4</cantidad>
+<precioUnitario>2.25</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>9</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>9</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>alf.que.012</codigoPrincipal>
+<descripcion>BLOQUE REBANADO MOZZARELLA 2.500GR</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>12.5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>25</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>25</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>alf.que.011</codigoPrincipal>
+<descripcion>BLOQUE ENTERO MOZZARELLA 2.500 GR</descripcion>
+<cantidad>4</cantidad>
+<precioUnitario>11.5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>46</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>46</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">SAN JUAN</campoAdicional>
+<campoAdicional nombre="Telefono">0984609360</campoAdicional>
+<campoAdicional nombre="Email">dinomart.supermercados@gmail.com</campoAdicional>
+<campoAdicional nombre="Observaciones"> CONTRIBUYENTE REGIMEN RIMPE            </campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature63599">
+<ds:SignedInfo Id="Signature-SignedInfo395638">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID228278" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature63599-SignedProperties141546">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5P398Y1iuAfu8dg0JLJ474fg1Cw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1598047">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>1LzF5dkyYiM0aK69h9HqXEg9+Ns=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-239461" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>BeQPhAZX7pZ60Ny06S9f7Q4xMyc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1005288">
+YEduO4z4NrlCzCHYPogkEcaJgyCs7sRej7GXI8ypcUveAqhnOSYX7O7UtwFSEtwTA959z36e4Uyf
+ITg7gvKzrBe9VQ+N3/6gtIUHAw068yR+nb9b90aJpPPlZiYvHUPY3E4P+EmFgODgnEh9r+m930fw
+MLhhECfowo/tC1M35BC2thihd2uycXkLvHnIRty9n0SdbHxRjzwZ+TKApVBW8EphSwq65Z0LTS67
+T2pG3dbCKH3fiupJrntM9PbBr6TvHxKpUlfzXMbMPUtWvPJRnxxwkd6vCQawvQjdA13X72OnJlST
+tKYhbYBR2CwcQ4mHbrG1Hc5zYfP0dW5nwLQ3QA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1598047">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL0jCCCbqgAwIBAgIEJfhy0DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEyMDEyMjI2NTFaFw0yMzEyMDEyMjI2NTFaMIGcMSUw
+IwYDVQQDDBxKT0hOIFBBVUwgU0FOQ0hFWiBNT05URU5FR1JPMRUwEwYDVQQFEwwwMTEyMjIxNzM2
+MzMxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAvldAtfsRJGnP3uSDMOD96v9VnWQjQZUP5icpKcHHi6YG1+f5iYugPf23
+MaoeJLES7jFz/tJi7r2pGeNJnnSZQa6V9/+4ssinSx/Tu+aU6ROwocy3VxndNaFIv1ANNt/5Sm6K
+hHJP4v9R26us8Za6vCyKjYbDrcgq+mRyxPTN9ucrhwH1++ciEMLBfToLQyQ2CWvFa+7tFhd8FBYi
+FX7isJtQPqMUTpV4/ak+f4S+eTQpvH35+HPTOZDQxj/WvdL8KKNxjP1oRKyasKoJnuF0BZ6nKx6G
+gxTvMIOAuPg4Tw50G4AowHU4DIXLgxSoWWo3EYPH0fKAIGEFwugz6oivCQIDAQABo4IHGzCCBxcw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwHAYDVR0RBBUwE4ERam9wYXM4NUBnbWFpbC5jb20wggEGBgNVHSAEgf4wgfswWgYKKwYB
+BAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQ
+AGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYBBQUH
+AgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMv
+Tm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVy
+c29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5z
+ZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5
+MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRB
+MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRp
+b25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vl
+cj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQzAdBgNVHQ4EFgQUOe0ur0yQbVGyaMEBImSM9SA6NJEwKwYDVR0QBCQwIoAPMjAy
+MjEyMDEyMjI2NTFagQ8yMDIzMTIwMTIyMjY1MVowCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwEE
+DAwKMTcxODM0MzQ4NDAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMBEGCisGAQQBgqZyAyIEAwwBLjA5
+BgorBgEEAYKmcgMHBCsMKU1BUklBTk8gSFVSVEFETyBONTIxNTUgWSBBTUFMSUEgRUdVSUdVUkVO
+MBkGCisGAQQBgqZyAwIECwwJSk9ITiBQQVVMMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwNTA2
+MTIwMBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMM
+BAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdTQU5DSEVaMBEGCisGAQQBgqZyAx4EAwwBLjAd
+BgorBgEEAYKmcgMLBA8MDTE3MTgzNDM0ODQwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBoGCisGAQQB
+gqZyAwQEDAwKTU9OVEVORUdSTzAaBgorBgEEAYKmcgMIBAwMCjA5OTI5MTk1NzUwDQYJKoZIhvcN
+AQELBQADggIBAFL7g+6k1AhcjdMWyGESVpBG+3WHv7Lnujdrjku/CsjRXUg344OI88jbNeHKLKXN
+JA+ch/izKsWTonkNusZem7hFdvQkGA8kqSv/JebMnUOL0/sy5tMAXk5vxTGyHoeQUnpcSAfkfmak
+VtJIZF8hWgPOU+BKjnXOs5Yz7UDzBR/dh+ldICS1FjuI1qm5tSw3nDl6PLkMxdY09Mdafesa9RGZ
+jjwAyVqjgogaF4rlibWhZOS6ktQNlV2/x5Ayxr5soPx1HjIE1lEqX93QqqAyKl45/d5nET30LC0z
+88JSePWYFt1StTLwYtDKuU6H1s9pQM03lWqNIZfvnJY3YLOivORFWMeMBEDS7AiOXbtkkOxExbom
+wDrrZCbkHxYmE5wLdKH2hWqff9VphXgVjQabcZdzCbuk6Yfxc9l1Z1Uxt3j6LOmAceO7u89wKRlP
+iQbWrhZJiA9SdijE4eyWYlrMcOdDFfClCbcjDPq7tQI3wkYXyr5dG/b3M99iwEStdGfNAzdZdOgI
+X2l0J4BsdNGRQk7kgWUdCoiO/jWVotVO/0zi8Ilf83SkZ0qQwJj7hA1PXkL4MuFovVgRCZ8fmckR
+ifF3hDnTpewmbF4rhPAU0Uv3palD9HRnlf4nrj++SyWEGQVh6fmwKddi2wHjvi0bbSKkc+dYYZdY
+AS7i1KzXPvu1
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+vldAtfsRJGnP3uSDMOD96v9VnWQjQZUP5icpKcHHi6YG1+f5iYugPf23MaoeJLES7jFz/tJi7r2p
+GeNJnnSZQa6V9/+4ssinSx/Tu+aU6ROwocy3VxndNaFIv1ANNt/5Sm6KhHJP4v9R26us8Za6vCyK
+jYbDrcgq+mRyxPTN9ucrhwH1++ciEMLBfToLQyQ2CWvFa+7tFhd8FBYiFX7isJtQPqMUTpV4/ak+
+f4S+eTQpvH35+HPTOZDQxj/WvdL8KKNxjP1oRKyasKoJnuF0BZ6nKx6GgxTvMIOAuPg4Tw50G4Ao
+wHU4DIXLgxSoWWo3EYPH0fKAIGEFwugz6oivCQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature63599-Object869612"><etsi:QualifyingProperties Target="#Signature63599"><etsi:SignedProperties Id="Signature63599-SignedProperties141546"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-01-04T12:24:10-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Vt1D8nYkZxVeFgMksQYWwyAuaaY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>637039312</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-239461"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+                    	<mensajes/>
+                    </autorizacion>
